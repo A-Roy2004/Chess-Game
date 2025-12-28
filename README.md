@@ -44,12 +44,6 @@ The game runs entirely in the browser and follows standard chess movement rules.
    
 ---
 
-## 🚀 Demo
-
-<a href="https://A-roy2004.github.io/Chess-Game/">♟️ Live Demo</a>
-   
----
-
 ## 📂 Project Structure
 
 ```plaintext
