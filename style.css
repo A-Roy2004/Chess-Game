@@ -372,7 +372,8 @@ div * {
 .shake-little.shake-freeze,
 .shake-little.shake-constant {
     animation-name: shake-little;
-    animation-duration: 5ms;
+    animation-duration: 100ms;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
+
 }
