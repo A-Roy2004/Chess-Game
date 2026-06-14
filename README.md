@@ -1,7 +1,8 @@
 # ♟️CHESS GAME
 
-A simple and interactive **Web-based Chess game** built using **HTML**, **CSS**, and **JavaScript**.  
-The game runs entirely in the browser and follows standard chess movement rules.
+A simple and interactive **Web-based Chess game** built using **HTML**, **CSS**, and **JavaScript** and deployed on **Vercel**.  
+The game runs entirely in the browser and on all devices and follows standard chess movement rules.
+
 
 ---
 
@@ -12,6 +13,9 @@ The game runs entirely in the browser and follows standard chess movement rules.
 - Turn-based gameplay (White vs Black)
 - Click-based piece movement
 - Valid move checking
+- Move history
+- Board Flipping
+- Pause and Reset Option
 - Responsive design for different screen sizes
   
 ---
@@ -30,8 +34,14 @@ The game runs entirely in the browser and follows standard chess movement rules.
 - Click on a piece to select it
 - Click on a valid square to move the piece
 - Players take turns alternately
+- Time based (5 minutes for each player)
 - The game follows basic chess rules
   
+---
+
+## Live Demo
+🔗 [Play](https://chess-game-chi-mauve.vercel.app/)
+
 ---
 
 ## ▶️ How to Run the Game
@@ -49,6 +59,6 @@ The game runs entirely in the browser and follows standard chess movement rules.
 ```plaintext
 Chess-folder/
 │── index.html       # Main HTML file
+│── style.css        # CSS file
 │── script.js        # JavaScript functionality
 │── README.md        # Documentation
-│── style.css        # CSS file
